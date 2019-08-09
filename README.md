@@ -2,7 +2,7 @@
 
 The classic TicTacToe game has been game has been ceated using python3
 Two modes of the game have been made: 
-1.tictactoe.py : Human vs Computer 
+1.tictactoe.py : Human vs Computer <br>
 2.tictactoemanual.py: Human vs Human
 
 # Requirement
